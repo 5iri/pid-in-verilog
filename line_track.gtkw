@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Fri Aug 15 13:23:59 2025
+[*]
+[dumpfile] "/Users/lazybanana/github/fun/pid_in_verilog/line_following.vcd"
+[dumpfile_mtime] "Fri Aug 15 13:23:38 2025"
+[dumpfile_size] 11561772
+[savefile] "/Users/lazybanana/github/fun/pid_in_verilog/line_track.gtkw"
+[timestart] 0
+[size] 1400 800
+[pos] -1 -1
+*-26.000000 133800000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 255
+[signals_width] 169
+[sst_expanded] 1
+[sst_vpaned_height] 229
+@28
+line_following_test.clk
+line_following_test.rst_n
+@820
+line_following_test.robot_position
+line_following_test.setpoint
+line_following_test.control_signal
+line_following_test.error
+line_following_test.p_term
+line_following_test.i_term
+line_following_test.d_term
+line_following_test.robot_velocity
+line_following_test.track_disturbance
+[pattern_trace] 1
+[pattern_trace] 0
